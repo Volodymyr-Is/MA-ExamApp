@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_horizontal">16dp</dimen>
+
+    <dimen name="padding_vertical_16dp">16dp</dimen>
+    <dimen name="padding_vertical_8dp">8dp</dimen>
+
+    <dimen name="padding_bottom_16dp">16dp</dimen>
+    <dimen name="padding_bottom_8dp">8dp</dimen>
+    <dimen name="padding_bottom_4dp">4dp</dimen>
+
+    <dimen name="padding_top_8dp">8dp</dimen>
+    <dimen name="padding_top_4dp">4dp</dimen>
+
+    <dimen name="thickness_1dp">1dp</dimen>
+    <dimen name="thickness_3dp">3dp</dimen>
+
+    <dimen name="vertical_arrangement">8dp</dimen>
+</resources>
